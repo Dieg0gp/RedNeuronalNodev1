@@ -10,6 +10,7 @@ body {
     padding: 20px;
     max-width: 80%; /* Establece el ancho máximo del contenedor */
     margin: 0 auto; /* Centra horizontalmente */
+    border-radius: 20px;
   }
   
   #joke {
